@@ -43,7 +43,6 @@ slides:
 ---
 
 
-<!-- no-branding -->
 # Example Talk
 ### Dr. Alex Johnson · Meta AI
 
@@ -98,7 +97,6 @@ $$
 
 ---
 
-<!-- Alternative: Asymmetric columns -->
 
 <div style="display: flex; gap: 2rem;">
 
@@ -134,7 +132,6 @@ def example():
 
 <div style="flex: 1;">
 
-![](https://images.unsplash.com/photo-1708011271954-c0d2b3155ded?w=400&dpr=2&h=400&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTh8fG1hdGhlbWF0aWNzfGVufDB8fHx8MTc2NTYzNTEzMHww&ixlib=rb-4.1.0)
 
 </div>
 
@@ -320,10 +317,8 @@ Try these keyboard shortcuts:
 - `ESC` : Exit modes
 
 ---
-<!-- hide -->
 ## Hidden Slide Demo (Inline Comment)
 
-This slide is hidden using the `<!-- hide -->` comment method.
 
 Perfect for:
 - Speaker-only content
@@ -421,7 +416,6 @@ branding:
 
 ---
 
-<!-- no-branding -->
 
 ## 🔇 Hiding Branding Per-Slide
 
@@ -430,47 +424,36 @@ Sometimes you want a clean slide (title slides, full-screen images).
 Add this comment at the **start** of your slide content:
 
 ```markdown
-<!-- no-branding -->
 ## My Clean Slide
 
 Content here...
 ```
 
-☝️ **This slide uses `<!-- no-branding -->`** — notice no logo or overlays!
 
 ---
 
-<!-- no-header -->
 
 ## 🔇 Selective Hiding
 
 Hide just the header (logo + title):
 
 ```markdown
-<!-- no-header -->
 ```
 
 Or just the footer (author + footer text):
 
 ```markdown
-<!-- no-footer -->
 ```
 
-☝️ **This slide uses `<!-- no-header -->`** — footer still visible below!
 
 ---
 
-<!-- no-footer -->
 
 ## ✅ Quick Reference
 
 | Comment | Hides |
 |---------|-------|
-| `<!-- no-branding -->` | Everything (logo, title, author, footer) |
-| `<!-- no-header -->` | Logo + Title overlay |
-| `<!-- no-footer -->` | Author + Footer text |
 
-☝️ **This slide uses `<!-- no-footer -->`** — logo still visible above!
 
 ---
 
@@ -479,7 +462,6 @@ Or just the footer (author + footer text):
 1. Copy this example's front matter as a starting point
 2. Replace logo with yours in `assets/media/`
 3. Customize positions and text
-4. Use `<!-- no-branding -->` for special slides
 
 **Pro tip:** Set site-wide defaults in `config/_default/params.yaml` under `slides.branding`!
 

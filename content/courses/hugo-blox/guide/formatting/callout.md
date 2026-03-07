@@ -7,7 +7,6 @@ Hugo Blox supports GitHub and Obsidian-style Markdown callouts for maximum compa
 
 Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.
 
-<!--more-->
 
 ## Usage
 

@@ -8,9 +8,7 @@ tags:
   - Second Brain
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
     x: 50
     y: 40

@@ -17,7 +17,6 @@ content_meta:
 
 👋 Welcome to your shiny new site. Ready to learn more?
 
-<!--more-->
 
 This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
 

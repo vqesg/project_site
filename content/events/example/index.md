@@ -385,7 +385,6 @@ Each lecture gets its own slide deck, all version controlled, all editable by st
 
 - [Academic Slides Template](https://github.com/HugoBlox/theme-academic-cv)
 
-<!--
 - [Conference Talk Template](https://github.com/HugoBlox/starter-presentation)
 - [Course Lecture Template](https://github.com/HugoBlox/starter-course)
 

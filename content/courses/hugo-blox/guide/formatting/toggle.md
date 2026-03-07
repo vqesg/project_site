@@ -4,7 +4,6 @@ title: Spoilers
 
 A Hugo shortcode to toggle collapsible content.
 
-<!--more-->
 
 ## Example
 
